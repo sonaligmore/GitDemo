@@ -26,6 +26,16 @@ public class RestassuredAPITest {
 
 
 	}
+	@Test
+	public void deleteTwitter1()
+	{
+		System.out.println("deleteTwitter");
+		System.out.println("deleteTwitter1");
+
+		System.out.println("deleteTwitter2");
+
+
+	}
 
 
 }
